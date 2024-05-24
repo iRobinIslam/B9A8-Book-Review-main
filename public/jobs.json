@@ -1,0 +1,80 @@
+[
+  {
+    "book_id": 1,
+    "book_name": "Eternal Sunshine",
+    "author_name": "L.J. Shen",
+    "image_id": "https://i.ibb.co/7pSn7J3/613-Z0-K5tl-YL.jpg",
+    "review": "A mesmerizing exploration of memory and identity, blurring the lines between reality and illusion.",
+    "total_pages": 355,
+    "rating": 4.5,
+    "category": "science fiction",
+    "tags": ["memory", "identity", "dystopia"],
+    "publisher": "Vintage Books",
+    "year_of_publishing": 1993
+  },
+  {
+    "book_id": 2,
+    "book_name": "Echoes of Eternity",
+    "author_name": "Hal M. Helms",
+    "image_id": "https://i.ibb.co/xCPYkbp/A17-PSio-OBBL-SY425.jpg",
+    "review": "A haunting narrative that delves into the complexities of time travel and its consequences.",
+    "total_pages": 421,
+    "rating": 4.7,
+    "category": "science fiction",
+    "tags": ["time travel", "suspense", "alternate history"],
+    "publisher": "Grand Central Publishing",
+    "year_of_publishing": 2001
+  },
+  {
+    "book_id": 3,
+    "book_name": "Beyond the Horizon",
+    "author_name": "Ursula K. Le Guin",
+    "image_id": "https://i.ibb.co/VwTHCKX/71-Aa-Wo-WDHL-SY425.jpg",
+    "review": "A thought-provoking journey through a world where gender and identity are fluid concepts.",
+    "total_pages": 289,
+    "rating": 4.6,
+    "category": "science fiction",
+    "tags": ["gender", "society", "utopia"],
+    "publisher": "Ace Books",
+    "year_of_publishing": 1969
+  },
+  {
+    "book_id": 4,
+    "book_name": "The Quantum Labyrinth",
+    "author_name": "Isaac Asimov",
+    "image_id": "https://i.ibb.co/ncfxTrs/81f-Xmjr-V1c-L-SY425.jpg",
+    "review": "A mind-bending exploration of quantum physics and its philosophical implications.",
+    "total_pages": 312,
+    "rating": 4.8,
+    "category": "science fiction",
+    "tags": ["quantum physics", "philosophy", "hard science fiction"],
+    "publisher": "Bantam Books",
+    "year_of_publishing": 1981
+  },
+  {
+    "book_id": 5,
+    "book_name": "Voices from the Void",
+    "author_name": "Philip K. Dick",
+    "image_id": "https://i.ibb.co/Xp8Kznt/71-Zt-S6-Ya-Sm-L-SY425.jpg",
+    "review": "A mind-altering journey into the depths of consciousness and reality.",
+    "total_pages": 358,
+    "rating": 4.4,
+    "category": "science fiction",
+    "tags": ["consciousness", "reality", "surrealism"],
+    "publisher": "Vintage Books",
+    "year_of_publishing": 1964
+  },
+  {
+    "book_id": 6,
+    "book_name": "The City in the Stars",
+    "author_name": "Arthur C. Clarke",
+    "image_id": "https://i.ibb.co/stPj2r8/91r2v7-Nr2u-L-SY425.jpg",
+    "review": "A visionary odyssey across the cosmos, revealing the wonders and mysteries of space.",
+    "total_pages": 533,
+    "rating": 4.9,
+    "category": "science fiction",
+    "tags": ["space exploration", "cosmic mysteries", "hard science fiction"],
+    "publisher": "Gollancz",
+    "year_of_publishing": 1956
+  }
+]
