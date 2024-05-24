@@ -5,8 +5,6 @@ import { getStoredBookApplication } from "../LocalStorage/LocalStorage";
 import { HiOutlineMapPin } from "react-icons/hi2";
 import { MdOutlineManageAccounts } from "react-icons/md";
 import { MdOutlineRestorePage } from "react-icons/md";
-//import ReadBook from "../ReadBook/ReadBook";
-//import Wishlist from "../WishList/Wishlist";
 
 
 
@@ -24,7 +22,7 @@ const BookList = () => {
         <div>
             <NavBar></NavBar>
             <div className=" text-center justify-center max-w-6xl bg-slate-100 mx-auto rounded-lg shadow-lg mt-10 h-20">
-            <h3 className=" font-extrabold text-3xl">Books</h3>
+            <h3 className=" font-extrabold text-3xl p-3">Books</h3>
             </div>
             <div>
 

@@ -6,7 +6,7 @@ const Error = () => {
     return (
 
         
-        <div className="container text-center mt-96">
+        <div className="container text-center m-auto mt-52">
             <h1 className="text-7xl font-extrabold">404</h1>
             <h2 className=" font-extrabold text-4xl">
                 <span className=" text-yellow-500 text-2xl"> Server Not Found</span></h2>
